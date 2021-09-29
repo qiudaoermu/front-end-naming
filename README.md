@@ -5,9 +5,8 @@
 | zn | en | pro |
 | --- | --- | --- | 
 | 跳转路由 | **goto()** | v
-| 配置命名|  ***xxx-setting***| n
 | 初始化请求函数 |  **initEditor()**|v
-| 拉取初始请求 | **queryDetailById(id)**|
+| 拉取初始请求 | **queryDetailById(id)**| v
 ## 字段-field
 | zn | en | pro |
 | --- | --- | --- | 
@@ -18,7 +17,7 @@
 | 队列: |**queue** |n
 | 迭代器: | **iterator** | n|
 
-## 文件夹-文件
+## 文件夹-文件-file-folder
 
 | zn | en | pro |
 | --- | --- | --- |
@@ -27,7 +26,6 @@
 |打包输出文件夹 | **build**| n
 |工具| **util**| n
 |枚举| **enum** | n
-
-|配置命名| ***xxx-setting***
-#Feature Request
+|配置命名| ***xxx-setting***| n
+## Feature Request
 * 请直接提 issue 来增加需要添加的新功能或单词列表
