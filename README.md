@@ -18,6 +18,7 @@
 | 分离| **exract** |verb
 | 队列: |**queue** | noun
 | 迭代器: | **iterator** | noun |
+| 匹配的xx | matched| noun|
 
 ## 文件夹-文件-file-folder
 
