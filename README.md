@@ -17,11 +17,11 @@
 |参数| **params** | noun
 | 表单: 提交集合| **fileds** | noun
 | 分离| **exract** |verb
-| 队列: |**queue** | noun
-| 迭代器: | **iterator** | noun |
+| 队列|**queue** | noun
+| 迭代器 | **iterator** | noun |
 | 匹配的xx | **matched**| noun|
-|found|**找到了** | adj 布尔
-| sourceAvailable| **可用资源**| adj 布尔
+|找到了|**found** | adj 布尔
+| 可用资源| **sourceAvailable**| adj 布尔
 
 ## 文件夹-文件-file-folder
 
