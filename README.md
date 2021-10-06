@@ -1,6 +1,6 @@
 # 前端开发常用命名
 
-## 命名原则： 优雅 易读
+## 命名原则： 优雅 易读  统一
 
 
 ## 函数-func 
@@ -9,7 +9,7 @@
 | 跳转路由 | **goto()** | verb
 | 初始化请求函数 |  **initEditor()**|verb
 | 拉取初始请求 | **queryDetailById(id)**| verb
-| 提交等触发事件命名 | **hanldeSubmit()** | verb
+| 提交等触发事件命名 | **handleXXX()** | verb
 ## 字段-field
 | zn | en | pro |
 | --- | --- | --- | 
@@ -19,7 +19,9 @@
 | 分离| **exract** |verb
 | 队列: |**queue** | noun
 | 迭代器: | **iterator** | noun |
-| 匹配的xx | matched| noun|
+| 匹配的xx | **matched**| noun|
+|found|**找到了** | adj 布尔
+| sourceAvailable| **可用资源**| adj 布尔
 
 ## 文件夹-文件-file-folder
 
