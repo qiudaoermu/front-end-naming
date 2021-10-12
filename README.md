@@ -10,6 +10,7 @@
 | 初始化请求函数 |  **initEditor()**|verb
 | 拉取初始请求 | **queryDetailById(id)**| verb
 | 提交等触发事件命名 | **handleXXX()** | verb
+| 更新 新增xxx | **updateXXX()** | verb
 ## 字段-field
 | zn | en | pro |
 | --- | --- | --- | 
