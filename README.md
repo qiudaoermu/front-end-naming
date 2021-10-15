@@ -11,6 +11,11 @@
 | 拉取初始请求 | **queryDetailById(id)**| verb
 | 提交等触发事件命名 | **handleXXX()** | verb
 | 更新 新增xxx | **updateXXX()** | verb
+| 查找XXX | **findXXX()**  |  verb
+| 转换  | **converToXXX()** ｜**transformXXX()**  |  verb
+| 还原| **restoreXXX()**| verb
+| 重新分配制作使...| **makeXXX()**|verb
+ 
 ## 字段-field
 | zn | en | pro |
 | --- | --- | --- | 
@@ -23,6 +28,8 @@
 | 匹配的xx | **matched**| noun|
 |找到了|**found** | adj 布尔
 | 可用资源| **sourceAvailable**| adj 布尔
+| 重复的| **duplicate** | adj
+|集合 区间| **sets section**| noun
 
 ## 文件夹-文件-file-folder
 
