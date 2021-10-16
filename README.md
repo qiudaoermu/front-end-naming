@@ -22,7 +22,7 @@
 |格式化|**reformat()**| verb
 ## 字段-field
 | zn | en | pro |
-| --- | --- | --- | -- |
+| --- | --- | --- |
 | 数据源| **dataSource** | noun
 |参数| **params** | noun
 | 表单: 提交集合| **fileds** | noun
