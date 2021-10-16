@@ -1,18 +1,20 @@
 # 前端开发常用命名
 
 ## 命名原则： 优雅 易读  统一
-
+```css
 <style>
 table td:first-of-type {
     width: 4cm;
 }
 table td:nth-of-type(2) {
-    width: 8cm;
+    width: 7cm;
 }
 table td:nth-of-type(3) {
     width: 16em;
 }
 </style>
+```
+
 ## 函数-func 
 | zn | en | pro |
 | --- | --- | --- | 
