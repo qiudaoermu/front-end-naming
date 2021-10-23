@@ -1,7 +1,7 @@
 # 前端开发常用命名
 
 ## 命名原则： 优雅 易读  统一
-```css
+
 <style>
 table td:first-of-type {
     width: 4cm;
@@ -13,7 +13,7 @@ table td:nth-of-type(3) {
     width: 16em;
 }
 </style>
-```
+
 
 ## 函数-func 
 | zn | en | pro |
@@ -27,11 +27,13 @@ table td:nth-of-type(3) {
 | 转换  | **converToXXX()** ｜**transformXXX()**  |  verb
 | 还原| **restoreXXX()**| verb
 | 重新分配制作使...| **makeXXX()**|verb
-| 生成| **generateXXX**| verb
-| 组合 | **pair**| verb
+| 生成| **generateXXX()**| verb
+| 组合 | **pair** ｜ **group**| verb
 | 包含,是否存在|**containXXX()**| @boolern
 |判断是否是| **checkIfXXX()**| @boolern
 |格式化|**reformat()**| verb
+| 订阅 | **subscribe** ｜ **on** | verb
+| 发布| **publish**｜**emit** | verb
 ## 字段-field
 | zn | en | pro |
 | --- | --- | --- |
