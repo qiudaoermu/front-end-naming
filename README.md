@@ -34,6 +34,10 @@ table td:nth-of-type(3) {
 |格式化|**reformat()**| verb
 | 订阅 | **subscribe** ｜ **on** | verb
 | 发布| **publish**｜**emit** | verb
+| 触发| **trigger** | verb
+
+
+
 ## 字段-field
 | zn | en | pro |
 | --- | --- | --- |
@@ -47,14 +51,18 @@ table td:nth-of-type(3) {
 | 数字| **digits**| noun
 | 字符| **chars**| noun
 | 元素| **element**| noun
+| 动态属性 | **dynamicProps** | noun
 |找到了|**found** | adj 布尔  PS: 使用过去式作为结果 例如 checked 
 | 可用资源| **sourceAvailable**| adj 布尔
 | 重复的| **duplicate** | adj
 | 独自的 唯一的| **uniq** ｜**single**| adj
 | 共同的| **common**| adj
-|分离| **exract** |verb
+|分离,提取| **exract** |verb
 |计数,统计,计算| **count**| verb
 | 交换| **exchange** | verb
+
+
+
 ## 文件夹-文件-file-folder
 
 | zn | en | pro |
